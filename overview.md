@@ -30,4 +30,4 @@ Mega Project provides many benefits to me as a software engineer:
     * Deployment
     * Etc.
 
-To find out more, visit the <a name="https://github.com/bcreagh/mp.docs">documentation on Github.</a>
+To find out more, visit the <a href="https://github.com/bcreagh/mp.docs">documentation on Github.</a>
