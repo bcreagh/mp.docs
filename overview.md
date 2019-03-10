@@ -29,3 +29,5 @@ Mega Project provides many benefits to me as a software engineer:
     * Continuous Integration
     * Deployment
     * Etc.
+
+To find out more, visit the <a name="https://github.com/bcreagh/mp.docs">documentation on Github.</a>
